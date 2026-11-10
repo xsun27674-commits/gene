@@ -1,0 +1,44 @@
+THE CODE OF LIFE · V2 render report
+
+STATUS: COMPLETE
+Music source: user-provided 银牌pp.MP3, AAC audio extracted losslessly; attached video picture not used.
+Source audio duration: 55.328345 s
+Output duration: 55.333333 s
+Resolution / aspect: 1920 x 1080 / 16:9, square pixels
+Frame rate / count: 30 FPS / 1660
+Encoding: H.264 + one AAC stereo 48 kHz audio track
+File bytes: 50053482
+Final output path in cloud only: /workspace/the-code-of-life-v2/delivery/THE_CODE_OF_LIFE_FINAL.mp4
+Output SHA256: f6bce4808463c7ba880d2714c666c0819d2ee8ed7818bab2d919a7182b67eda3
+
+Protected intro
+- Original MP4 file SHA256 unchanged: 9f68afe66279723490707d1ced6c09a12a25bf2567b83ac7c04659c47e580964
+- First 300 decoded video frames identical: True
+- First 480000 stereo PCM samples identical: True
+- Camera position, Euler orientation and lens at frame 301 inherit the original scene.
+- Original 0–10 s was not rerendered or retimed.
+
+Validation
+- Full-file FFmpeg decode with -xerror passed: True
+- No unintended black frames before ending: True
+- No full-frame white flashes: True
+- No unexpected frozen runs: True
+- Final intentional black hold: 11 frames
+- Serialized meiosis scene state checks: passed; 2n=2 illustrative model; 2 parental + 2 recombinant chromatids.
+- Scientific geometry and montage scope described in README and science/model audit JSON files.
+
+Known limitations / permitted substitutions
+- Macro shots 10–17 use generated photographic texture assets with virtual camera movement, not continuous filmed animal video.
+- Bird shot 16 uses a transparent generated bird and forest plate in a 2.5D glide composite.
+- Molecular/meiotic CGI is schematic, not experimental atomic coordinates or a complete human genome model.
+- CPU Eevee rendering; high-speed motion blur and thin-detail sampling can be refined with GPU resources.
+- Images are upsampled where needed; output is 1080p, source generated image width is about 1672 pixels.
+- AAC splice retains the protected prefix and uses frame-aligned container edits plus encoder preroll.
+- Music after the protected intro has 0.88 gain headroom; final 0.6 seconds fade out.
+
+Download verification
+- Existing authorized GitHub route was tested before rendering using a 1024-byte HTTP range and matched the original bytes.
+- Final MP4: fresh HTTPS download verified, 50053482 bytes, SHA256 matched.
+- Verified MP4 URL: https://github.com/xsun27674-commits/gene/raw/refs/heads/main/exports/THE_CODE_OF_LIFE_FINAL.mp4
+- Project/clip ZIP downloads are checked separately after publishing.
+- Internal workspace paths and handwritten sandbox links are not treated as exported attachments.

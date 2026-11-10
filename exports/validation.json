@@ -1,0 +1,188 @@
+{
+  "passed": true,
+  "original_mp4_sha256": "9f68afe66279723490707d1ced6c09a12a25bf2567b83ac7c04659c47e580964",
+  "first_300_decoded_images_identical": true,
+  "first_480000_stereo_pcm_samples_identical": true,
+  "audio_prefix_sha256": "71f5dabe77a33a636d356e8580cf5e3b86be6b6c755ce192516e8212ebe100f7",
+  "frame_prefix_hash_list_sha256": "d20c09b2ce30e2a54258f7d1ab2c55c2e432686396fe0599228b20b49f2ebee0",
+  "full_decode_passed": true,
+  "no_unexpected_black_frames": true,
+  "no_full_screen_white_flashes": true,
+  "no_unexpected_freezes": true,
+  "end_black_frames": 11,
+  "source_music_duration": 55.328345,
+  "output_video_frames": 1660,
+  "video_info": {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "sample_aspect_ratio": "1:1",
+    "display_aspect_ratio": "16:9",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "avg_frame_rate": "30/1",
+    "start_time": "0.000000",
+    "duration": "55.333333",
+    "nb_read_frames": "1660"
+  },
+  "audio_info": {
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0",
+    "avg_frame_rate": "0/0",
+    "start_time": "0.000000",
+    "duration": "55.328354",
+    "nb_read_frames": "2594"
+  },
+  "file_size_bytes": 50053482,
+  "file_sha256": "f6bce4808463c7ba880d2714c666c0819d2ee8ed7818bab2d919a7182b67eda3",
+  "seams": [
+    {
+      "boundary_seconds": 10.0,
+      "left_frame": 300,
+      "right_frame": 301,
+      "left_mean_rgb": null,
+      "right_mean_rgb": 43.14133230452675,
+      "next_shot": "DNA_CONTINUATION"
+    },
+    {
+      "boundary_seconds": 11.466666666666667,
+      "left_frame": 344,
+      "right_frame": 345,
+      "left_mean_rgb": 28.549704218106996,
+      "right_mean_rgb": 31.979616769547324,
+      "next_shot": "CHROMATIN"
+    },
+    {
+      "boundary_seconds": 13.6,
+      "left_frame": 408,
+      "right_frame": 409,
+      "left_mean_rgb": 8.012538580246913,
+      "right_mean_rgb": 7.029192386831276,
+      "next_shot": "REPLICATED_CHROMOSOME"
+    },
+    {
+      "boundary_seconds": 16.5,
+      "left_frame": 495,
+      "right_frame": 496,
+      "left_mean_rgb": 4.229681069958848,
+      "right_mean_rgb": 4.230131172839506,
+      "next_shot": "HOMOLOGUE_PAIRING"
+    },
+    {
+      "boundary_seconds": 18.9,
+      "left_frame": 567,
+      "right_frame": 568,
+      "left_mean_rgb": 6.798482510288066,
+      "right_mean_rgb": 6.798482510288066,
+      "next_shot": "CROSSING_OVER"
+    },
+    {
+      "boundary_seconds": 22.366666666666667,
+      "left_frame": 671,
+      "right_frame": 672,
+      "left_mean_rgb": 10.576324588477366,
+      "right_mean_rgb": 10.576324588477366,
+      "next_shot": "RECOMBINANTS"
+    },
+    {
+      "boundary_seconds": 25.033333333333335,
+      "left_frame": 751,
+      "right_frame": 752,
+      "left_mean_rgb": 6.034272119341564,
+      "right_mean_rgb": 6.034272119341564,
+      "next_shot": "MEIOSIS_I"
+    },
+    {
+      "boundary_seconds": 27.433333333333334,
+      "left_frame": 823,
+      "right_frame": 824,
+      "left_mean_rgb": 3.6287937242798356,
+      "right_mean_rgb": 3.6287937242798356,
+      "next_shot": "MEIOSIS_II"
+    },
+    {
+      "boundary_seconds": 30.6,
+      "left_frame": 918,
+      "right_frame": 919,
+      "left_mean_rgb": 27.47537294238683,
+      "right_mean_rgb": 32.31397890946502,
+      "next_shot": "FLOWERS"
+    },
+    {
+      "boundary_seconds": 32.6,
+      "left_frame": 978,
+      "right_frame": 979,
+      "left_mean_rgb": 58.65059156378601,
+      "right_mean_rgb": 88.50315072016461,
+      "next_shot": "MAIZE"
+    },
+    {
+      "boundary_seconds": 35.13333333333333,
+      "left_frame": 1054,
+      "right_frame": 1055,
+      "left_mean_rgb": 76.11226851851852,
+      "right_mean_rgb": 60.948109567901234,
+      "next_shot": "BUTTERFLY"
+    },
+    {
+      "boundary_seconds": 37.0,
+      "left_frame": 1110,
+      "right_frame": 1111,
+      "left_mean_rgb": 58.63831018518518,
+      "right_mean_rgb": 84.33198302469135,
+      "next_shot": "IRIS"
+    },
+    {
+      "boundary_seconds": 39.1,
+      "left_frame": 1173,
+      "right_frame": 1174,
+      "left_mean_rgb": 78.0664866255144,
+      "right_mean_rgb": 68.06835133744856,
+      "next_shot": "CAT"
+    },
+    {
+      "boundary_seconds": 41.5,
+      "left_frame": 1245,
+      "right_frame": 1246,
+      "left_mean_rgb": 67.0903420781893,
+      "right_mean_rgb": 71.46855709876543,
+      "next_shot": "LEAF"
+    },
+    {
+      "boundary_seconds": 43.9,
+      "left_frame": 1317,
+      "right_frame": 1318,
+      "left_mean_rgb": 65.57941100823045,
+      "right_mean_rgb": 70.34021347736625,
+      "next_shot": "FOREST"
+    },
+    {
+      "boundary_seconds": 46.03333333333333,
+      "left_frame": 1381,
+      "right_frame": 1382,
+      "left_mean_rgb": 65.06526491769547,
+      "right_mean_rgb": 58.8383487654321,
+      "next_shot": "LIFE_MONTAGE"
+    },
+    {
+      "boundary_seconds": 48.93333333333333,
+      "left_frame": 1468,
+      "right_frame": 1469,
+      "left_mean_rgb": 50.1528420781893,
+      "right_mean_rgb": 44.31359310699588,
+      "next_shot": "CONVERGENCE"
+    },
+    {
+      "boundary_seconds": 52.13333333333333,
+      "left_frame": 1564,
+      "right_frame": 1565,
+      "left_mean_rgb": 7.58764146090535,
+      "right_mean_rgb": 7.5590920781893,
+      "next_shot": "DNA_FINALE"
+    }
+  ]
+}
