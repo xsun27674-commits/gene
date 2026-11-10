@@ -40,5 +40,6 @@ Download verification
 - Existing authorized GitHub route was tested before rendering using a 1024-byte HTTP range and matched the original bytes.
 - Final MP4: fresh HTTPS download verified, 50053482 bytes, SHA256 matched.
 - Verified MP4 URL: https://github.com/xsun27674-commits/gene/raw/refs/heads/main/exports/THE_CODE_OF_LIFE_FINAL.mp4
-- Project/clip ZIP downloads are checked separately after publishing.
+- Editable project ZIP and scene clips ZIP: full HTTPS downloads verified, HTTP 200, byte lengths and SHA256 matched.
+- See download_verification.json for all three download receipts.
 - Internal workspace paths and handwritten sandbox links are not treated as exported attachments.

@@ -1,0 +1,26 @@
+{
+  "all_downloads_verified": true,
+  "files": [
+    {
+      "verified": true,
+      "url": "https://github.com/xsun27674-commits/gene/raw/refs/heads/main/exports/THE_CODE_OF_LIFE_FINAL.mp4",
+      "http_status": 200,
+      "downloaded_bytes": 50053482,
+      "sha256": "f6bce4808463c7ba880d2714c666c0819d2ee8ed7818bab2d919a7182b67eda3"
+    },
+    {
+      "verified": true,
+      "url": "https://github.com/xsun27674-commits/gene/raw/refs/heads/main/exports/THE_CODE_OF_LIFE_EDITABLE_PROJECT.zip",
+      "http_status": 200,
+      "downloaded_bytes": 52705006,
+      "sha256": "3bf8550667389e4c32c2b7ce042a85d4921eb9c7d6f856073a57ef11c10beeec"
+    },
+    {
+      "verified": true,
+      "url": "https://github.com/xsun27674-commits/gene/raw/refs/heads/main/exports/THE_CODE_OF_LIFE_SCENE_CLIPS.zip",
+      "http_status": 200,
+      "downloaded_bytes": 28306581,
+      "sha256": "a79f0dcda35dc5adbaae133dbd3d9ca10604bd65f853a0a02d26049afae778f2"
+    }
+  ]
+}
